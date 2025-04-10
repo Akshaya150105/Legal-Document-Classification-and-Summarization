@@ -18,7 +18,6 @@ Legal documents are often long and complex. This project aims to:
 
 - **Types**: Judgment, Contract, Land
 - **Format**: Plain text documents (.txt or .csv)
-- **Source**: A combination of real and synthetically generated documents
 - **Length**: Varies between 5–15 pages
 
 ---
